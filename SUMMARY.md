@@ -5,6 +5,7 @@
    * [入学三问](0MOOC/sec101.md)
 * [基础旋进](1sTry/README.md)
    * [pip](1sTry/sec1pip.md)
+       * 1w3d：代码错误类型和频次
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
 * [代码 (_src)](_src/README.md)
