@@ -12,7 +12,7 @@ def main():
     foo(5, 10)
     
     print '=' * 10
-    print '这将直接执行+os.getcwd()
+    print '这将直接执行'+os.getcwd()
     
     counter = 0
     counter += 1
