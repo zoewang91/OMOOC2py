@@ -27,7 +27,7 @@ def main():
       
 def foo (paraml, secondParam):
     res = paraml+secondParam
-    print '%s 加 %s 等于 %s%(paraml, secondParam, res)
+    print '%s 加 %s 等于 %s'%(paraml, secondParam, res)
     if  res < 50:
         print '这个'
     elif (res>=50) and ((paraml==42) or (secondParam==24)):
@@ -36,7 +36,7 @@ def foo (paraml, secondParam):
         print '嗯...'
     return res # 这是单行注释
     '''这是多
-    行注释......'''
+行注释......'''
     
-  if ____name____=='____main____':
+if ____name____=='____main____':
       main()
