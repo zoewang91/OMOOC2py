@@ -18,7 +18,7 @@ def main():
     counter += 1
     
     food = ['苹果', '杏子', '李子', '梨']
-    for i in food：
+    for i in food:
         print '俺就爱整只：'+i
     
     print '数到10'
